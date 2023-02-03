@@ -12,3 +12,8 @@ I'm asked to write something so wmrubiauefqepori
 
 ### **My Favorite Picture!!**
 ![feelinglike](/img/dead_father.png)
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
